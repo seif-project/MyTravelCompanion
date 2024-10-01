@@ -1,0 +1,32 @@
+{
+  "register": {
+    "title": "Inscription",
+    "name": "Nom",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmez le mot de passe",
+    "submit": "S'inscrire",
+    "already_have_account": "Vous avez déjà un compte ? Connexion"
+  },
+  "validation": {
+    "name_required": "Le nom est requis",
+    "email_required": "L'email est requis",
+    "invalid_email": "L'email est invalide",
+    "password_required": "Le mot de passe est requis",
+    "password_min": "Le mot de passe doit contenir au moins 6 caractères",
+    "confirm_password_required": "La confirmation du mot de passe est requise",
+    "passwords_mismatch": "Les mots de passe ne correspondent pas"
+  },
+  "error": {
+    "title": "Erreur",
+    "registration_failed": "Une erreur est survenue lors de l'inscription"
+  },
+  "login": {
+    "title": "Connexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "email_required": "L'email est requis",
+    "password_required": "Le mot de passe est requis"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit": "Sign Up",
+    "already_have_account": "Already have an account? Login"
+  },
+  "validation": {
+    "name_required": "Name is required",
+    "email_required": "Email is required",
+    "invalid_email": "Invalid email",
+    "password_required": "Password is required",
+    "password_min": "Password must be at least 6 characters",
+    "confirm_password_required": "Confirm password is required",
+    "passwords_mismatch": "Passwords do not match"
+  },
+  "error": {
+    "title": "Error",
+    "registration_failed": "An error occurred during registration"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "email_required": "Email is required",
+    "password_required": "Password is required"
+  }
+}
